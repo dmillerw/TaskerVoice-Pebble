@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "dmillerw@gmail.com",
+    "longName": "Tasker Voice",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Tasker Voice",
+    "targetPlatforms": [
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "c3ee0729-cc25-47c8-9882-76bec2caec28",
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": false
+    }
+}
